@@ -3,3 +3,5 @@ blue
 rocket
 sky
 chicken
+jacky
+joolie
