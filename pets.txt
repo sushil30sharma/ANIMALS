@@ -5,3 +5,6 @@ sky
 chicken
 jacky
 joolie
+bruno
+daisy
+demon
